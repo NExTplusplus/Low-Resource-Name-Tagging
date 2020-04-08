@@ -35,6 +35,5 @@ python main.py
 
 We output metrics including precision, precision type, recall, recall type, f1 and f1 type. The difference between xx and xx type is that the former one only considers prediction's boundary while that latter one considers both boundary and type.
 
-
-
-
+## Acknowledgements
+This research is supported by the National Research Foundation, Singapore under its International Research Centres in Singapore Funding Initiative. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not reflect the views of National Research Foundation, Singapore.
